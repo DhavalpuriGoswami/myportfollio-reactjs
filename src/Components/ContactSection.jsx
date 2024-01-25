@@ -5,7 +5,6 @@ import ContactForm from "./ContactForm";
 import ContactInfoItem from "./ContactInfoItem";
 import SectionTitle from "./SectionTitle";
 import { MdOutlineLocationOn } from "react-icons/md";
-import { IoCallOutline } from "react-icons/io5";
 const ContactSectionStyle = styled.div`
   padding: 10rem 0;
   .contactSection__wrapper {
