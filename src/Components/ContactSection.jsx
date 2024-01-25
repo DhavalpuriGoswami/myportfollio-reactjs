@@ -54,8 +54,6 @@ const ContactSectionStyle = styled.div`
 
 const ContactSection = () => {
   const [calling, setCalling] = useState(false);
-  const call = <IoCallOutline />;
-
   const handlePhoneButtonClick = () => {
     setCalling(true);
 

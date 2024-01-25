@@ -8,7 +8,7 @@ import Home from "./Pages/Home";
 import Footer from "./Components/Footer";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import React, { useState } from "react";
+import React from "react";
 import styled from "styled-components";
 import ScrollToTop from "./Components/ScrollToTop";
 
